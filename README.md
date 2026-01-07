@@ -7,9 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 <br>
-
 <p align="center">
-  <img width="1707" height="807" src="https://github.com/user-attachments/assets/3dd6785c-8343-4123-98a5-9c8145687583" alt="Circuit Diagram"/>
+  <img width="1707" height="807" src="https://github.com/user-attachments/assets/1c4afc1b-e3f3-4387-a5d9-76939806b970" alt="Circuit Diagram"/>
 </p>
 
 <br>
